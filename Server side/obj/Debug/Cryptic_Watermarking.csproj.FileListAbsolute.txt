@@ -1,0 +1,315 @@
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Cryptic_Watermarking.csproj.GenerateResource.Cache
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMarkingRAR\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Menu.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+E:\YUVATECH 2013\PROJECT STUDY\WATERMARKING IMAGES\WaterMark Anoop\WaterMarkingRAR\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Users\Anoop\Desktop\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Users\Anoop\Desktop\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Anoop\Desktop\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+E:\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+E:\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+E:\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+E:\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\pc\Desktop\PROJECT\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+C:\Users\pc\Desktop\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+C:\Users\pc\Desktop\PROJECT\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\PROJECT\New folder\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\YUVATECH\Desktop\WaterMarking\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\pc\Desktop\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+I:\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+I:\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+I:\WaterMarking2\Water\bin\Debug\AForge.dll
+I:\WaterMarking2\Water\bin\Debug\AForge.Imaging.dll
+I:\WaterMarking2\Water\bin\Debug\AForge.Math.dll
+I:\WaterMarking2\Water\bin\Debug\WeifenLuo.WinFormsUI.dll
+I:\WaterMarking2\Water\obj\Debug\ResolveAssemblyReference.cache
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ColorSlider.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.FilterPreview.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Histogram.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HuePicker.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ImageAnalysis.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+I:\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+I:\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+I:\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+I:\WaterMarking2\Water\obj\Debug\ResGen.read.1.tlog
+I:\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\WaterMarking2\Water\obj\Debug\ResGen.write.1.tlog
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.BrowseImage.resources
+I:\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HistogramaDesenat.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.BrowseImage.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ColorSlider.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.FilterPreview.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Histogram.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HuePicker.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HistogramaDesenat.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ImageAnalysis.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\ResGen.read.1.tlog
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pc\Desktop\reportnew\WaterMarking2\Water\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.BrowseImage.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ColorSlider.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.FilterPreview.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Histogram.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HuePicker.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HistogramaDesenat.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ImageAnalysis.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2014\PROJECT STUDY\Watermark image\LBS Watermarking\WaterMarking2\Water\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.BrowseImage.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Captcha.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ColorSlider.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.FilterPreview.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Histogram.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HuePicker.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HistogramaDesenat.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ImageAnalysis.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Registration.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\Enhacement\Server Side\WaterMarking2\Water\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.BrowseImage.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Captcha.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ColorSlider.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.FilterPreview.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Histogram.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HuePicker.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HistogramaDesenat.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ImageAnalysis.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Registration.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Before April 2015\Image watermarking\TKM Enhancement\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.MailSend.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.exe
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.pdb
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.exe
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\bin\Debug\Cryptic_Watermarking.pdb
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.csprojResolveAssemblyReference.cache
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.BrowseImage.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Captcha.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ColorSlider.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.FilterPreview.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Histogram.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HuePicker.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form1.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form2.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Form3.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.HistogramaDesenat.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ImageAnalysis.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Login.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.MailSend.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.metropanel.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Properties.Resources.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Registration.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.ResizeImage.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.VisibleWatermark.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.Watermark1.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.WatermarkExtract.resources
+G:\Project\Visual Cryptography\Watermarking\Server Side\WaterMarking2\Water\obj\Debug\Cryptic_Watermarking.csproj.GenerateResource.Cache

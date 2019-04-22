@@ -1,0 +1,8 @@
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Water.Properties.Resources.resources
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Water.csproj.GenerateResource.Cache
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\bin\Debug\Water.exe
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\bin\Debug\Water.pdb
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Water.Form1.resources
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Water.exe
+C:\Users\GR8MSVK\Documents\Visual Studio 2008\Projects\Water\Water\obj\Debug\Water.pdb
